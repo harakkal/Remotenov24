@@ -1,3 +1,4 @@
 My remote file on github repo using Github UI
 code updated via UI
-to test stashing
+to test stashin
+new changes added in remote file locally
